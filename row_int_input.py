@@ -1,4 +1,4 @@
-wi=input()
+wi=input()   #row input :/1 2 3 55 106
 list_wi=[]
 l=len(wi)
 k=-1
@@ -20,4 +20,4 @@ for i in range(0,l):
                         
                 
         list_wi.append(sum)
-print(list_wi)        
+print(list_wi)   #list output :/['1','2','3','55','106']     
